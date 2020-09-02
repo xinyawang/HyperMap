@@ -29,7 +29,7 @@ In this project, I recommend events based on categories that the user has favori
 Clone the GitHub repository and then import source code under /src into your PyCharm.
 
 ```
-git clone https://github.com/weijian2/HyperMap
+git clone https://github.com/xinyawang/HyperMap
 python manage.py makemigrations
 python manage.py migrate
 python runserver
@@ -58,7 +58,7 @@ created page
 
 ## Known bugs
 1. Click register button multiple times will create same event multiple times.
-If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
+If you find any more bugs, feel free to contact wangxinya5@gmail.com
 
 ## Todo list
 1. Optimize Recommendation system based on user-based algorithm.
