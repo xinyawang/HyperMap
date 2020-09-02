@@ -66,11 +66,9 @@ If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
 
 ## Deployment
 Deployment Environment: Google App Engine <br>
-[demo link](https://hypermap-cmu.appspot.com/) <br>
-(Please contact me at weijian1@andrew.cmu.edu if this instance is not running)
+
 
 ## Change Log
-v1.0.0(12/01/2017)<br>
 * user can see all events on Google map in main page
 * user can register or create event
 * System will recommend events to user
